@@ -13,7 +13,7 @@
 The purpose of this repository is to give a sneak-peek of progress on Mitti. Instead of sharing code, I will provide an overview of the methodology.
 
 ### Data:
-[This section will be updated periodically. Last update: Mar 18, 2019]
+_[This section will be updated periodically. Last update: Mar 18, 2019]_
 
 Status: I am currently building the soil test module of Mitti for one specific geography - Latur district in the state of Maharashtra, India. For this, I am using data from the
 
@@ -31,10 +31,10 @@ conda create --name myenv --file spec-file.txt
 ```
 
 ### Results:
-[This section will be updated periodically. Last update: Mar 18, 2019]
+_[This section will be updated periodically. Last update: Mar 18, 2019]_
 
-##### Progress:
-**Soil test module**
+**Progress:**
+##### Soil test module
 - Added spatial features to soil test data using googlemaps api (similar code used in the plot area app I built before)
 - Cleaned and merged soil test data with gis data to build regional soil maps
 
