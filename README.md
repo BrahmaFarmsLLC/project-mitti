@@ -40,4 +40,4 @@ conda create --name myenv --file spec-file.txt
 
 Example:
 
-![ahmedpur-N]("images/apur-n-map.jpg")
+![ahmedpur-N](images/apur-n-map.jpg)
