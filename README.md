@@ -41,3 +41,5 @@ _[This section will be updated periodically. Last update: Mar 18, 2019]_
 Example:
 
 ![ahmedpur-N](images/apur-n-map.jpg)
+
+Similar maps for Phosphorus, Potassium, and pH are in the images directory.
