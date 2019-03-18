@@ -23,9 +23,9 @@ The data folder currently contains two datasets:
 
 ### Dependencies:
 
-The statical geospatial analysis was carried out in Python. All the dependencies have been added to the specs.txt file
+The statical geospatial analysis was carried out in Python. I primarily used BeautifulSoup to scrape, Pandas and GeoPandas for analysis, matplotlib and geoplot for data viz.
 
-You can replicate the environment by running the following code in the terminal.
+All the dependencies have been added to the specs.txt file. You can replicate the environment by running the following code in the terminal.
 ```
 conda create --name myenv --file spec-file.txt
 ```
